@@ -1,0 +1,16 @@
+
+
+ Functional Requirements:
+
+  Users should enter their name, email, password, and date of birth.
+  Users should choose their gender.
+  Users should agree to terms and conditions before submitting.
+  The form should have a Submit button.
+
+ Non-functional Requirements:
+
+  The page should have a responsive and user-friendly design.
+  Validation should ensure the email is in the correct format, the password is strong, and required fields are not empty.
+  Password should be hidden when typing.
+  The page should use external CSS for styling.
+  JavaScript should be used for form validation.
